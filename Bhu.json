@@ -15,11 +15,6 @@
       "expiry_date": "2026-12-31",
       "hwid": []
     },
-    "DP-UNIVERSAL": {
-      "status": "approved",
-      "expiry_date": "2099-12-31",
-      "hwid": []
-    },
     "DP-F02ARE": {
       "status": "approved",
       "max_devices": 1,
