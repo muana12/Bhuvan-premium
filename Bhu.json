@@ -25,6 +25,14 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "DP-2GU20R": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-29",
+      "hwid": [
+        "eacc166f5f3c8d7c"
+      ]
     }
   }
 }
