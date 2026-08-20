@@ -17,6 +17,14 @@
       "hwid": [
         "eacc166f5f3c8d7c"
       ]
+    },
+    "DP-W3VWVU": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-30",
+      "hwid": [
+        "eacc166f5f3c8d7c"
+      ]
     }
   }
 }
