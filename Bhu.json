@@ -10,11 +10,6 @@
     ]
   },
   "keys": {
-    "DP-VIP-101": {
-      "status": "approved",
-      "expiry_date": "2026-12-31",
-      "hwid": []
-    },
     "DP-F02ARE": {
       "status": "approved",
       "max_devices": 1,
