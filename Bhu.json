@@ -19,6 +19,14 @@
       "status": "approved",
       "expiry_date": "2099-12-31",
       "hwid": []
+    },
+    "DP-F02ARE": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-30",
+      "hwid": [
+        "eacc166f5f3c8d7c"
+      ]
     }
   }
 }
